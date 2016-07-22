@@ -1,0 +1,17 @@
+{
+  "name": "witness-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme inspired by The Witness",
+  "keywords": [
+    "dark",
+    "orange",
+    "witness",
+    "syntax"
+  ],
+  "repository": "https://github.com/haojunsui/witness-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
